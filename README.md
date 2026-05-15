@@ -31,14 +31,6 @@ const jimmy = {
 };
 ```
 
-### 🚀 Featured Project
-
-<a href="https://github.com/cookiespiggy/pi-memory">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cookiespiggy&repo=pi-memory&theme=tokyonight&hide_border=true" />
-</a>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
