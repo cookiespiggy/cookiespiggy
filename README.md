@@ -26,8 +26,7 @@ const jimmy = {
   company:  "Alibaba  🟠",
   prev:     ["Meituan  🐻"],
   focus:    ["AI Agent", "LLM Applications", "Memory Systems"],
-  stack:    ["TypeScript", "Node.js", "Java", "PostgreSQL"],
-  building: "pi-memory — persistent memory layer for AI agents",
+  building: ["pi-memory — persistent memory layer for AI agents",,"next-agent"]
   contact:  "281782296@qq.com",
 };
 ```
