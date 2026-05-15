@@ -26,21 +26,12 @@ const jimmy = {
   company:  "Alibaba  🟠",
   prev:     ["Meituan  🐻"],
   focus:    ["AI Agent", "LLM Applications", "Memory Systems"],
-  building: ["pi-memory — persistent memory layer for AI agents","next-agent"]
+  building: ["pi-memory — persistent memory layer for AI agents","next-agent"],
   contact:  "281782296@qq.com",
 };
 ```
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cookiespiggy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cookiespiggy&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=cookiespiggy&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
