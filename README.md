@@ -26,39 +26,10 @@ const jimmy = {
   company:  "Alibaba  🟠",
   prev:     ["Meituan  🐻"],
   focus:    ["AI Agent", "LLM Applications", "Memory Systems"],
-  building: ["pi-memory — persistent memory layer for AI agents",,"next-agent"]
+  building: ["pi-memory — persistent memory layer for AI agents","next-agent"]
   contact:  "281782296@qq.com",
 };
 ```
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Runtimes**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-**AI / LLM**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20DB-pgvector%20%7C%20sqlite--vec-blueviolet?style=flat-square)
-
-**Storage & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-
----
 
 ### 🚀 Featured Project
 
