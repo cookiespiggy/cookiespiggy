@@ -26,7 +26,7 @@ const jimmy = {
   company:  "Alibaba  🟠",
   prev:     ["Meituan  🐻"],
   focus:    ["AI Agent", "LLM Applications", "Memory Systems"],
-  building: ["pi-memory — persistent memory layer for AI agents","next-agent"],
+  building: ["pi-memory — persistent memory layer for PI agents","[next-agent-momery-with-self-evolving](https://github.com/cookiespiggy/nous)"],
   contact:  "281782296@qq.com",
 };
 ```
