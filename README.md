@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/cookiespiggy/agentic-rl">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cookiespiggy&repo=agentic-rl&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=e8d5ff" alt="agentic-rl" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=cookiespiggy&repo=agentic-rl&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=e8d5ff" alt="agentic-rl" />
   </a>
 </p>
 
