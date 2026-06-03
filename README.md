@@ -45,7 +45,7 @@ const jimmy = {
   focus:    ["AI Agent", "LLM Applications", "Memory Systems"],
   building: [
     "[agentic-rl — 零基础 Agentic RL 教程 + GRPO 实战](https://github.com/cookiespiggy/agentic-rl)",
-    "pi-memory — persistent memory layer for PI agents",
+    "[pi-memory — persistent memory layer for PI agents](https://github.com/cookiespiggy/pi-memory)",
     "[nous — self-evolving agent runtime](https://github.com/cookiespiggy/nous)",
   ],
   contact:  "281782296@qq.com",
