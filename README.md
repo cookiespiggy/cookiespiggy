@@ -18,6 +18,23 @@
 
 ---
 
+### 📌 Featured · [Agentic RL 零基础教程](https://github.com/cookiespiggy/agentic-rl)
+
+<p align="center">
+  <a href="https://github.com/cookiespiggy/agentic-rl">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cookiespiggy&repo=agentic-rl&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=e8d5ff" alt="agentic-rl" />
+  </a>
+</p>
+
+<p align="center">
+  <b>24 章中文教程 + TRL/GRPO 最小可跑示例</b> — 帮小白从零理解 Agentic RL、SFT、GRPO 训练链路<br/>
+  <a href="https://github.com/cookiespiggy/agentic-rl"><b>👉 开始学习</b></a>
+  &nbsp;·&nbsp;
+  搜「Agentic RL 教程」「GRPO 入门」「LLM 强化学习」都能到这里
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 ```typescript
@@ -26,7 +43,11 @@ const jimmy = {
   company:  "Alibaba  🟠",
   prev:     ["Meituan  🐻"],
   focus:    ["AI Agent", "LLM Applications", "Memory Systems"],
-  building: ["pi-memory — persistent memory layer for PI agents","[next-agent-momery-with-self-evolving](https://github.com/cookiespiggy/nous)"],
+  building: [
+    "[agentic-rl — 零基础 Agentic RL 教程 + GRPO 实战](https://github.com/cookiespiggy/agentic-rl)",
+    "pi-memory — persistent memory layer for PI agents",
+    "[nous — self-evolving agent runtime](https://github.com/cookiespiggy/nous)",
+  ],
   contact:  "281782296@qq.com",
 };
 ```
