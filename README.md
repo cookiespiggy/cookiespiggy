@@ -30,7 +30,7 @@ const jimmy = {
   company: "Alibaba 🟠",
   prev:    ["Meituan 🐻"],
   focus:   ["AI Agent", "LLM Applications", "Memory Systems", "Agentic RL"],
-  stack:   ["TypeScript", "Python", "Rust", "LLM Post-Training"],
+  stack:   "AI全栈",
 };
 ```
 
